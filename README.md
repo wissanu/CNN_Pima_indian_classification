@@ -12,9 +12,9 @@ Model-pre-process_input_output
 ------------------
 CNN - Deep learning needed input into format as (instance, row, col, channels)
 
-1.) padding (length = 9)
-2.) reshape (max_lenght, 3, 3, 1)
-3.) transform output into category.
+- padding (length = 9)
+- reshape (max_lenght, 3, 3, 1)
+- transform output into category.
 
 Model-CNN
 -------------------
