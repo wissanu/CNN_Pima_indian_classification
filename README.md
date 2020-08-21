@@ -1,6 +1,6 @@
 # CNN_Pima_indian_classification
 
-Classify Pima indian dataset with Keras (Test for fun)
+Classify Pima indian dataset with Keras (testing for comparing extracting information with informal method using CNN as tested)
 
 pre-processing
 ------------------
@@ -29,7 +29,6 @@ Model-CNN
 
 
 The model is interesting in the coverage of learning rate.
-but it poor cuz "overfitting".
 
 Need to be improve.
 
